@@ -1,0 +1,29 @@
+{
+  "name": "dndterminal",
+  "version": "1.0.0",
+  "description": "dnd terminal application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnRoach/dndterminal.git"
+  },
+  "keywords": [
+    "dnd",
+    "dnd5e",
+    "5e",
+    "terminal"
+  ],
+  "author": "John Roach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnRoach/dndterminal/issues"
+  },
+  "homepage": "https://github.com/JohnRoach/dndterminal#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.7.5"
+  }
+}
